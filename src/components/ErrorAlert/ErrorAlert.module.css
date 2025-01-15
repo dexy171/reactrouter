@@ -1,0 +1,19 @@
+.errorContainer {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 24px;
+  margin: 24px;
+}
+
+.backToHomepageLink {
+  padding: 18px;
+  color: white;
+  background-color: rgb(55, 108, 177);
+  text-decoration: none;
+  border-radius: 8px;
+}
+
+.backToHomepageLink:hover {
+  background-color: rgb(122, 155, 199);
+}
