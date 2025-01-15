@@ -1,0 +1,22 @@
+.navlist {
+  display: flex;
+  justify-content: flex-end;
+  background: #2e2e2e;
+  padding: 18px;
+}
+
+.navlist ul {
+  display: flex;
+  list-style-type: none;
+  gap: 24px;
+  margin-right: 24px;
+}
+
+.navlist a {
+  color: white;
+  text-decoration: none;
+}
+
+.navlist a:hover {
+  text-decoration: underline;
+}
