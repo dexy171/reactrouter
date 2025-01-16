@@ -1,6 +1,7 @@
 import { Link } from "react-router-dom";
 import { navConfig } from "../../config/navigation";
 import styles from "./Navigation.module.css";
+import { UserInfo } from "../UserInfo/UserInfo";
 
 export const Navigation = () => {
   return (
@@ -10,6 +11,7 @@ export const Navigation = () => {
           {item.label}
         </Link>
       ))}
+      <UserInfo />
     </nav>
   );
 };
