@@ -1,7 +1,4 @@
-# React Router Excercise
+# React Context Excercise
 
-This small project has a basic structure: navigation, outlet and footer.
-Outlet has 3 components: homepage, contact, about us.
-
-> [!NOTE]
-> Created with `create react app` and `react-router-dom`
+> [!IMPORTANT]
+> Added `react context` to the app. Passed it from `MainContent.jsx` to `UserInfo.jsx` and `AboutUs.jsx`.
