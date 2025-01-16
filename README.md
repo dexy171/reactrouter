@@ -1,4 +1,4 @@
-# React Context Excercise
+# React Memo Excercise
 
 > [!IMPORTANT]
 > Added `react context` to the app.
