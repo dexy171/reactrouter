@@ -1,7 +1,4 @@
 # React Memo Excercise
 
 > [!IMPORTANT]
-> Added `react context` to the app.
-> Passed data `user` and `employees`
-> from `MainContent.jsx`
-> to `UserInfo.jsx` and `AboutUs.jsx`.
+> Button has `console.log` to show when the `ButtonWithMemo` component is refreshed.
